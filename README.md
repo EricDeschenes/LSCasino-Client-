@@ -22,4 +22,5 @@ Statistics of the users performance are stored and can be seen at the statistics
 
 ## Architecture
 An image is included showing the architecture of the program (MVC).
-![LSCasino (Client) MVC](https://github.com/diegoob11/LSCasino-Client-/images/casinoClient.png)
+
+![LSCasino (Client) MVC](/images/casinoClient.png)
